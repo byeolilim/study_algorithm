@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public int solution(int[] numbers) {
         int sum = 45; //0~9까지 합.
